@@ -15,4 +15,4 @@ Tecnologias que eu uso no meu dia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edumachadoh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-Apaixonado por tecnologia, front-end e counter-strike.
+
