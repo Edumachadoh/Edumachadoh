@@ -8,7 +8,7 @@
 ](https://github.com/Edumachadoh)[![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/eduardo-machado-742249242/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edumachadoh&theme=great-gatsby&show_icons=true)
+/*![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edumachadoh&theme=great-gatsby&show_icons=true)*/
 
 
 Tecnologias que eu uso no meu dia
